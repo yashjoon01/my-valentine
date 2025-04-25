@@ -1,6 +1,6 @@
 # Readme
 
-Must have installed Install node
+Must have installed node
 Run command on terminal: 1.) npm install  2.) npm start 3.) propose
 
 GET REJECTED :/
